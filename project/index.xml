@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on AP Calculus</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on AP Calculus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AP Progress Check</title>
+      <link>/project/progress-check/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/progress-check/</guid>
+      <description>Free-response questions/solutions and multiple-choice solutions &lt;br&gt;&lt;br&gt; To access and submit answers to the progress check multiple-choice questions, log onto &lt;a href=&#34;https://myap.collegeboard.org&#34; target=&#34;_blank&#34;&gt;https://myap.collegeboard.org&lt;/a&gt; and go to AP Classroom.</description>
+    </item>
+    
+    <item>
+      <title>AP Statistics Docs</title>
+      <link>/project/class-docs/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/class-docs/</guid>
+      <description>Password protected. Please do not disseminate documents shared in this link.</description>
+    </item>
+    
+    <item>
+      <title>AP Question Bank</title>
+      <link>/project/question-bank/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/question-bank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AP Statistics Free Response Questions</title>
+      <link>/project/frq/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/frq/</guid>
+      <description>1998&amp;ndash;present</description>
+    </item>
+    
+    <item>
+      <title>AP Classroom</title>
+      <link>/project/ap-classroom/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ap-classroom/</guid>
+      <description>Log in with your College Board student account. Click &lt;strong&gt;Join a Course or Exam&lt;/strong&gt;. Submit join code, which you will receive from your teacher.</description>
+    </item>
+    
+    <item>
+      <title>AP Statistics Course and Exam Description</title>
+      <link>/project/ced/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barron&#39;s AP Statistics (9th Edition)</title>
+      <link>/project/barrons/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/barrons/</guid>
+      <description>Recommended resource for extra practice (not required for this course). Make sure the book comes with a CD-ROM (附光盤) if you want additional practice tests.</description>
+    </item>
+    
+    <item>
+      <title>College Board AP Statistics Site</title>
+      <link>/project/apcentral/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/apcentral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenIntro TI-83 &amp; TI-84 Plus Video Tutorials</title>
+      <link>/project/calculator/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/calculator/</guid>
+      <description>Video tutorials and documents focused on the use of TI graphing calculators for AP Statistics. Click on &amp;ldquo;TI-&lt;sup&gt;83&lt;/sup&gt;&amp;frasl;&lt;sub&gt;84&lt;/sub&gt; Plus,&amp;rdquo; the last entry on the left pane of this website link.</description>
+    </item>
+    
+  </channel>
+</rss>

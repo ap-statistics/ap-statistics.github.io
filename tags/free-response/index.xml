@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Response on AP Calculus</title>
+    <link>/tags/free-response/</link>
+    <description>Recent content in Free Response on AP Calculus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/free-response/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AP Statistics Free Response Questions</title>
+      <link>/project/frq/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/frq/</guid>
+      <description>1998&amp;ndash;present</description>
+    </item>
+    
+    <item>
+      <title>OpenIntro TI-83 &amp; TI-84 Plus Video Tutorials</title>
+      <link>/project/calculator/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/calculator/</guid>
+      <description>Video tutorials and documents focused on the use of TI graphing calculators for AP Statistics. Click on &amp;ldquo;TI-&lt;sup&gt;83&lt;/sup&gt;&amp;frasl;&lt;sub&gt;84&lt;/sub&gt; Plus,&amp;rdquo; the last entry on the left pane of this website link.</description>
+    </item>
+    
+  </channel>
+</rss>

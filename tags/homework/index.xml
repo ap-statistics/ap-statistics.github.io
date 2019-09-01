@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homework on AP Calculus</title>
+    <link>/tags/homework/</link>
+    <description>Recent content in Homework on AP Calculus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/homework/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AP Progress Check</title>
+      <link>/project/progress-check/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/progress-check/</guid>
+      <description>Free-response questions/solutions and multiple-choice solutions &lt;br&gt;&lt;br&gt; To access and submit answers to the progress check multiple-choice questions, log onto &lt;a href=&#34;https://myap.collegeboard.org&#34; target=&#34;_blank&#34;&gt;https://myap.collegeboard.org&lt;/a&gt; and go to AP Classroom.</description>
+    </item>
+    
+    <item>
+      <title>AP Question Bank</title>
+      <link>/project/question-bank/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/question-bank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AP Statistics Free Response Questions</title>
+      <link>/project/frq/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/frq/</guid>
+      <description>1998&amp;ndash;present</description>
+    </item>
+    
+  </channel>
+</rss>
