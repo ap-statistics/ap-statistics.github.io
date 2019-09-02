@@ -57,11 +57,29 @@
     </item>
     
     <item>
-      <title>Extra Practice</title>
-      <link>/tags/extra-practice/</link>
+      <title>Labs</title>
+      <link>/tags/labs/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/extra-practice/</guid>
+      <guid>/tags/labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenIntro</title>
+      <link>/tags/openintro/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/openintro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textbooks</title>
+      <link>/tags/textbooks/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/textbooks/</guid>
       <description></description>
     </item>
     

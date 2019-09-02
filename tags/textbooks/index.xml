@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Textbooks on AP Statistics</title>
+    <link>/tags/textbooks/</link>
+    <description>Recent content in Textbooks on AP Statistics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/textbooks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advanced High School Statistics (2nd Edition)</title>
+      <link>/project/textbook/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/textbook/</guid>
+      <description>course textbook</description>
+    </item>
+    
+    <item>
+      <title>Barron&#39;s AP Statistics (9th Edition)</title>
+      <link>/project/barrons/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/barrons/</guid>
+      <description>Recommended resource for extra practice (not required for this course). Make sure the book comes with a CD-ROM (附光盤) if you want additional practice tests.</description>
+    </item>
+    
+  </channel>
+</rss>

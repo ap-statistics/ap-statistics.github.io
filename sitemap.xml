@@ -178,6 +178,11 @@
   </url>
   
   <url>
+    <loc>/project/textbook/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/barrons/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -188,14 +193,31 @@
   </url>
   
   <url>
-    <loc>/tags/extra-practice/</loc>
+    <loc>/tags/labs/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/openintro/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/labs/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/calculator/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/textbooks/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
