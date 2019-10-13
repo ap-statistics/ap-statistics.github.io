@@ -96,6 +96,23 @@
   </url>
   
   <url>
+    <loc>/project/</loc>
+    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/submit-ch4-outline/</loc>
+    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/submissions/</loc>
+    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/announcements/</loc>
     <lastmod>2019-09-01T12:39:52-06:00</lastmod>
     <priority>0</priority>
@@ -130,12 +147,6 @@
   
   <url>
     <loc>/tags/homework/</loc>
-    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
