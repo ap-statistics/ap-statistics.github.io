@@ -96,6 +96,28 @@
   </url>
   
   <url>
+    <loc>/categories/announcements/</loc>
+    <lastmod>2019-10-21T12:39:52-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-10-21T12:39:52-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2019/10/21/hw-policy/</loc>
+    <lastmod>2019-10-21T12:39:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-10-21T12:39:52-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -113,24 +135,7 @@
   </url>
   
   <url>
-    <loc>/categories/announcements/</loc>
-    <lastmod>2019-09-01T12:39:52-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-09-01T12:39:52-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/2019/09/01/course-intro/</loc>
-    <lastmod>2019-09-01T12:39:52-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2019-09-01T12:39:52-06:00</lastmod>
   </url>
   
