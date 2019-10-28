@@ -1376,6 +1376,148 @@ $$ S_p^2 = \frac{(n_1-1)S_1^2 + (n_2-1)S_2^2}{(n_1-1)+(n_2-1)} $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Fall Semester Midterm Format</title>
+      <link>/2019/10/28/midterm/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/28/midterm/</guid>
+      <description>&lt;p&gt;The midterm has two parts:&lt;/p&gt;
+
+&lt;p&gt;1) Part A: 30 multiple-choice questions (60 minutes)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please use a pencil to bubble in answers on your scantron.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2) Part B: 2 free-response questions (30 minutes)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please use a pen or pencil to fill out answers on your free-response sheet.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The midterm will cover Chapters 1, 2, 4, 5, and 6 in the textbook. The following are the recommended practice problems to prepare for the midterm.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Chapter&lt;/th&gt;
+&lt;th&gt;Textbook Questions&lt;/th&gt;
+&lt;th&gt;Barron&amp;rsquo;s Questions&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;p. 78 (T1.1 - 15)&lt;/td&gt;
+&lt;td&gt;p. 77 (#1 - 34) &lt;br&gt; p. 144 (# 1 - 12)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;p. 137 (T2.1 - 2.13)&lt;/td&gt;
+&lt;td&gt;p. 251 (#1 - 17)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;p. 279 (T4.1 - 4.14)&lt;/td&gt;
+&lt;td&gt;p. 159 (#1 - 15) &lt;br&gt; p. 177 (# 1 - 19)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;p. 342 (T5.1 - 5.14)&lt;/td&gt;
+&lt;td&gt;p. 205 (#1 - 46)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;p. 418 (T6.1-6.14)&lt;/td&gt;
+&lt;td&gt;p. 234 (#1 - 6)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The midterm will include but may not necessarily be limited to the following topics delineated by chapter.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Chapter 1 topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5-number summary&lt;/li&gt;
+&lt;li&gt;boxplots&lt;/li&gt;
+&lt;li&gt;ordering of mean, median, and mode in skewed distributions
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chapter 2 topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;z-scores&lt;/li&gt;
+&lt;li&gt;percentiles&lt;/li&gt;
+&lt;li&gt;probability calculations using normal CDF
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chapter 4 topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;random sampling methods (SRS, stratified, cluster, systematic)&lt;/li&gt;
+&lt;li&gt;other sampling methods (convenience, voluntary)&lt;/li&gt;
+&lt;li&gt;undercoverage&lt;/li&gt;
+&lt;li&gt;experimental design
+
+&lt;ul&gt;
+&lt;li&gt;completely randomized design&lt;/li&gt;
+&lt;li&gt;randomized block design&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;random sampling vs. random assignment&lt;/li&gt;
+&lt;li&gt;causality vs. generalizability
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chapter 5 topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Law of Large Numbers&lt;/li&gt;
+&lt;li&gt;probability
+
+&lt;ul&gt;
+&lt;li&gt;General Addition Rule: $P(A\cup B) = P(A) + P(B) - P(A\cap B)$&lt;/li&gt;
+&lt;li&gt;General Multiplication Rule: $P(A\cap B) = P(A)*P(B|A)$&lt;/li&gt;
+&lt;li&gt;Mutually exclusive vs. independent events&lt;/li&gt;
+&lt;li&gt;Conditional probability
+
+&lt;ul&gt;
+&lt;li&gt;$P(A|B) = \frac{P(A\cap B)}{P(B)} = \frac{P(A)P(B|A)}{P(B)}$&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;perfect independence in two-way tables
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chapter 6 topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;random variables&lt;/li&gt;
+&lt;li&gt;transformation of random variables&lt;/li&gt;
+&lt;li&gt;binomial distribution&lt;/li&gt;
+&lt;li&gt;geometric distribution
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Homework Policy</title>
       <link>/2019/10/21/hw-policy/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
