@@ -1376,6 +1376,24 @@ $$ S_p^2 = \frac{(n_1-1)S_1^2 + (n_2-1)S_2^2}{(n_1-1)+(n_2-1)} $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Installing R and RStudio</title>
+      <link>/2019/11/20/r-setup/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/20/r-setup/</guid>
+      <description>&lt;p&gt;Please download R and RStudio in preparation for the statistical lab assignments this week.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt;: download the &lt;a href=&#34;https://cran.r-project.org/mirrors.html&#34; target=&#34;_blank&#34;&gt;CRAN mirror&lt;/a&gt; closest to your geographic location.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://rstudio.com/products/rstudio/download/#download&#34; target=&#34;_blank&#34;&gt;R Studio&lt;/a&gt;: integrated development environment (IDE) for R.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To familiarize yourself with R, you may want to go through some initial sections of &lt;a href=&#34;http://www.cookbook-r.com/&#34; target=&#34;_blank&#34;&gt;Cookbook for R&lt;/a&gt;, which provide very helpful tutorials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fall Semester Midterm Format</title>
       <link>/2019/10/28/midterm/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
