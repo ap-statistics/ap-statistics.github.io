@@ -1376,6 +1376,144 @@ $$ S_p^2 = \frac{(n_1-1)S_1^2 + (n_2-1)S_2^2}{(n_1-1)+(n_2-1)} $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Labs 7A &amp; 7B</title>
+      <link>/2019/11/22/lab-ch7/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/22/lab-ch7/</guid>
+      <description>
+
+&lt;p&gt;To solidify our understanding of sampling distributions, we will work on two R lab assignments this coming week. Labs 7A and 7B will focus on the sampling distribution of sample proportions and sample means, respectively. In preparation for these two lab assignments, we will go through R code related to Activities 7.1B and 7.2.&lt;/p&gt;
+
+&lt;h2 id=&#34;pre-lab-instructions&#34;&gt;Pre-Lab Instructions&lt;/h2&gt;
+
+&lt;p&gt;Before class on Tuesday, November 19, please have the following items completed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download R and RStudio. Refer to my &lt;a href=&#34;/2019/11/20/r-setup/&#34;&gt;previous post&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Download files in the &lt;a href=&#34;https://github.com/ap-statistics/lab_ch7&#34; target=&#34;_blank&#34;&gt;Chapter 7 Labs&lt;/a&gt; repository on the Github site for our course. On that repository site, you can click on the green &amp;ldquo;Clone or download&amp;rdquo; button and then click &amp;ldquo;Download ZIP&amp;rdquo; to download all of the following files in a zip folder.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;files&#34;&gt;Files&lt;/h2&gt;
+
+&lt;p&gt;The following are the files (found in the &lt;a href=&#34;https://github.com/ap-statistics/lab_ch7&#34; target=&#34;_blank&#34;&gt;Chapter 7 Labs&lt;/a&gt; Github repository) that you will need for Labs 7A and 7B:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;Lab_7A_GroupN.docx&lt;/code&gt; and &lt;code&gt;Lab_7B_GroupN.docx&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Replace &amp;ldquo;N&amp;rdquo; with your group number. See &lt;a href=&#34;#assign&#34;&gt;Group Assignments&lt;/a&gt; on this post for your group number.&lt;/li&gt;
+&lt;li&gt;Please type your responses directly in these two documents and insert R graphics for questions that require plots.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;code&gt;activity_7_1b.R&lt;/code&gt; and &lt;code&gt;activity_7_2.R&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Associated code for Activities 7.1B and 7.2.&lt;/li&gt;
+&lt;li&gt;You can adapt the code in these two files for the lab assignments.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;submission-instructions&#34;&gt;Submission Instructions&lt;/h2&gt;
+
+&lt;p&gt;Each group will submit one Word document and accompanying R code for each lab assignment to me via WeChat by the deadlines listed on the &lt;a href=&#34;/schedule/&#34;&gt;Schedule&lt;/a&gt; section of the course website.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Please note the lab instructions, which state the required format of the file-naming convention for both the Word documents and R files.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fill the table on the top of each Word document with your group number, English full names, and seat numbers.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;assign&#34;&gt;Group Assignments&lt;/h2&gt;
+
+&lt;p&gt;The following are the group assignments listed by your seat number in class.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Group&lt;/th&gt;
+&lt;th&gt;Member 1&lt;/th&gt;
+&lt;th&gt;Member 2&lt;/th&gt;
+&lt;th&gt;Member 3&lt;/th&gt;
+&lt;th&gt;Member 4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1-1&lt;/td&gt;
+&lt;td&gt;1-2&lt;/td&gt;
+&lt;td&gt;2-1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1-3&lt;/td&gt;
+&lt;td&gt;2-2&lt;/td&gt;
+&lt;td&gt;2-3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1-4&lt;/td&gt;
+&lt;td&gt;2-4&lt;/td&gt;
+&lt;td&gt;2-5&lt;/td&gt;
+&lt;td&gt;2-6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3-0&lt;/td&gt;
+&lt;td&gt;3-1&lt;/td&gt;
+&lt;td&gt;3-2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;3-3&lt;/td&gt;
+&lt;td&gt;4-2&lt;/td&gt;
+&lt;td&gt;4-3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;3-4&lt;/td&gt;
+&lt;td&gt;3-5&lt;/td&gt;
+&lt;td&gt;3-6&lt;/td&gt;
+&lt;td&gt;4-5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;4-1&lt;/td&gt;
+&lt;td&gt;5-1&lt;/td&gt;
+&lt;td&gt;5-2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;4-4&lt;/td&gt;
+&lt;td&gt;5-3&lt;/td&gt;
+&lt;td&gt;5-4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;expectation&#34;&gt;Expectation&lt;/h2&gt;
+
+&lt;p&gt;Please make sure that all members of your team are involved in both the coding and analysis portions of the lab assignments. You may consult with members of other groups, but you may not copy code directly from other groups. If you are unsure about the collaboration policy or have any issues with the allocation of work within your group, please let me know.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Installing R and RStudio</title>
       <link>/2019/11/20/r-setup/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>

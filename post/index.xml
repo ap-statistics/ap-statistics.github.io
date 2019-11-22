@@ -6,10 +6,19 @@
     <description>Recent content in Posts on AP Statistics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Labs 7A &amp; 7B</title>
+      <link>/2019/11/22/lab-ch7/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/22/lab-ch7/</guid>
+      <description>Instructions on completing Labs 7A and 7B</description>
+    </item>
     
     <item>
       <title>Installing R and RStudio</title>
